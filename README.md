@@ -112,6 +112,14 @@ The raw dataset was transformed into a Star Schema for analysis.
 
 This model helps in efficient analytics using joins and aggregation queries.
 
+
+
+### Star Schema Design
+![Star Schema](star_schema.png)
+
+
+
+
 ### 3) KPI Reporting
 
 **Total Orders**
